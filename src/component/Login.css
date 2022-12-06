@@ -1,0 +1,39 @@
+
+
+.login-box{
+    width: 40%;
+    padding: 5%;
+    margin-top: 15%;
+    margin-left: 30%;
+    color: white;
+    background-color: gray;
+    border-radius: 6px;
+    border: 2px solid black;
+
+}
+
+.input-label{
+    display: block;
+}
+
+.inputs-login{
+    color: black;
+}
+
+.btn-login{
+    margin-top: 10%;
+    width: 40%;
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+}
+
+.btn-login:hover{
+    margin-top: 10%;
+    width: 40%;
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    transition: ease-in-out 0.3s;
+
+}

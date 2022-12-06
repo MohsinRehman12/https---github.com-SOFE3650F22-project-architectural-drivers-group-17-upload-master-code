@@ -1,0 +1,29 @@
+.btn-nav{
+    margin-top: 10%;
+    width: 40%;
+    height: 100%;
+    font-size: 1.5rem;
+    color: white;
+    background-color: black;
+    margin-bottom: 10%;
+
+    border-radius: 4px;
+}
+
+.btn-nav:hover{
+    margin-top: 10%;
+    width: 40%;
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    transition: ease-in-out 0.3s;
+
+}
+
+.nav-btn-container{
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 30%;
+    margin-top: 15%;
+    margin-left: 35%;
+}
